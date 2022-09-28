@@ -1,4 +1,5 @@
-Final year student of the Double Degree in Computer Science and Mathematics
+Final year student of the Double Degree in Computer Science and Mathematics.
+
 I have a huge number of interests, including: Quantum Computation, Mathematical Finance, Cloud Services, Artificial Intelligence, Cybersecurity and Abstract Mathematics.
 
 <!--
