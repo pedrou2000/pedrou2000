@@ -1,6 +1,6 @@
 Final year student of the Double Degree in Computer Science and Mathematics.
 
-I have a huge number of interests, including: Quantum Computation, Mathematical Finance, Cloud Services, Artificial Intelligence, Cybersecurity and Abstract Mathematics.
+I have a huge number of interests, including: Artificial Intelligence and Machine Learning, Quantum Computation, Mathematical Finance, Cloud Services, Cybersecurity and Abstract Mathematics.
 
 <!--
 **pedrou2000/pedrou2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
