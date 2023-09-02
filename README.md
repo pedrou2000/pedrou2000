@@ -1,6 +1,5 @@
-Studying an MSc in Advanced Computing at Imperial College London.
-
-I have a huge number of interests, including: Artificial Intelligence and Machine Learning, Quantum Computation, Mathematical Finance, Cybersecurity and Abstract Mathematics.
+🔭 Studying an MSc in Advanced Computing at Imperial College London.
+🌱 I have a huge number of interests, including: Artificial Intelligence and Machine Learning, Quantum Computation, Mathematical Finance, Cybersecurity and Abstract Mathematics.
 
 <!--
 **pedrou2000/pedrou2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
